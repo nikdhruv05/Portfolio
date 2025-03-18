@@ -45,13 +45,17 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+        className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I’m a skilled Full-Stack Developer with expertise in the MERN stack,
+        specializing in building scalable web applications. With experience in
+        real-time communication (Socket.IO), responsive UI design (Material-UI,
+        Tailwind), and backend architecture (microservices, authentication,
+        APIs), I craft seamless and efficient solutions. I’ve worked on job
+        portals, healthcare apps, and chat systems, continuously enhancing
+        functionality and user experience. Open to freelance opportunities, I
+        thrive on solving complex challenges and delivering high-quality
+        software. Let's work together to bring your ideas to life!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

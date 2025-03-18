@@ -1,4 +1,5 @@
-import logo from "./logo.svg";
+import logo from "./logo.jpg"
+import techtok4u from "./techtok4u.jpeg"
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -32,6 +33,7 @@ import tripguide from "./tripguide.png";
 
 export {
   logo,
+  techtok4u,
   backend,
   creator,
   mobile,
